@@ -1,2 +1,0 @@
-# GitPitch
-GitPitch
